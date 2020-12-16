@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kristen-Jaan\\source\\repos\\SantaClausIsComingToTown\\SantaClausIsComingToTown\\SantaClausIsComingToTown.csproj": {}
+    "C:\\Users\\mikes\\Source\\Repos\\SantaClausIsComingToTown\\SantaClausIsComingToTown\\SantaClausIsComingToTown.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kristen-Jaan\\source\\repos\\SantaClausIsComingToTown\\SantaClausIsComingToTown\\SantaClausIsComingToTown.csproj": {
+    "C:\\Users\\mikes\\Source\\Repos\\SantaClausIsComingToTown\\SantaClausIsComingToTown\\SantaClausIsComingToTown.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kristen-Jaan\\source\\repos\\SantaClausIsComingToTown\\SantaClausIsComingToTown\\SantaClausIsComingToTown.csproj",
+        "projectUniqueName": "C:\\Users\\mikes\\Source\\Repos\\SantaClausIsComingToTown\\SantaClausIsComingToTown\\SantaClausIsComingToTown.csproj",
         "projectName": "SantaClausIsComingToTown",
-        "projectPath": "C:\\Users\\Kristen-Jaan\\source\\repos\\SantaClausIsComingToTown\\SantaClausIsComingToTown\\SantaClausIsComingToTown.csproj",
-        "packagesPath": "C:\\Users\\Kristen-Jaan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kristen-Jaan\\source\\repos\\SantaClausIsComingToTown\\SantaClausIsComingToTown\\obj\\",
+        "projectPath": "C:\\Users\\mikes\\Source\\Repos\\SantaClausIsComingToTown\\SantaClausIsComingToTown\\SantaClausIsComingToTown.csproj",
+        "packagesPath": "C:\\Users\\mikes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikes\\Source\\Repos\\SantaClausIsComingToTown\\SantaClausIsComingToTown\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kristen-Jaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mikes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
