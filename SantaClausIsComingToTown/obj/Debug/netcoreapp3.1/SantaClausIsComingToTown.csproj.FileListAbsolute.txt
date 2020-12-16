@@ -1,0 +1,16 @@
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\bin\Debug\netcoreapp3.1\SantaClausIsComingToTown.exe
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\bin\Debug\netcoreapp3.1\SantaClausIsComingToTown.deps.json
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\bin\Debug\netcoreapp3.1\SantaClausIsComingToTown.runtimeconfig.json
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\bin\Debug\netcoreapp3.1\SantaClausIsComingToTown.runtimeconfig.dev.json
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\bin\Debug\netcoreapp3.1\SantaClausIsComingToTown.dll
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\bin\Debug\netcoreapp3.1\SantaClausIsComingToTown.pdb
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\obj\Debug\netcoreapp3.1\SantaClausIsComingToTown.csprojAssemblyReference.cache
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\obj\Debug\netcoreapp3.1\SantaClausIsComingToTown.Form1.resources
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\obj\Debug\netcoreapp3.1\SantaClausIsComingToTown.Properties.Resources.resources
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\obj\Debug\netcoreapp3.1\SantaClausIsComingToTown.csproj.GenerateResource.cache
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\obj\Debug\netcoreapp3.1\SantaClausIsComingToTown.AssemblyInfoInputs.cache
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\obj\Debug\netcoreapp3.1\SantaClausIsComingToTown.AssemblyInfo.cs
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\obj\Debug\netcoreapp3.1\SantaClausIsComingToTown.csproj.CoreCompileInputs.cache
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\obj\Debug\netcoreapp3.1\SantaClausIsComingToTown.dll
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\obj\Debug\netcoreapp3.1\SantaClausIsComingToTown.pdb
+C:\Users\Kristen-Jaan\source\repos\SantaClausIsComingToTown\SantaClausIsComingToTown\obj\Debug\netcoreapp3.1\SantaClausIsComingToTown.genruntimeconfig.cache
